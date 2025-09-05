@@ -1,0 +1,36 @@
+commit bbdabded2c1c8c611295bb3ca7237ff4cbed9643
+Merge: a6d31a2 6ddf097
+Author: DamianBonds <dbonds@calstatela.edu>
+Date:   Thu Sep 4 20:48:17 2025 -0700
+
+    Resolved merge conflict
+
+commit 6ddf09775203d539c194b70bb4a182b0100896bd
+Author: DamianBonds <dbonds@calstatela.edu>
+Date:   Thu Sep 4 20:42:57 2025 -0700
+
+    Added favorite game
+
+commit a6d31a233d27656b3f7b4d431c3602b819548f83
+Author: DamianBonds <dbonds@calstatela.edu>
+Date:   Thu Sep 4 20:15:08 2025 -0700
+
+    Added favorite food
+
+commit 7c77ca288b5ffbf3756f61973afb6247d570345c
+Author: DamianBonds <dbonds@calstatela.edu>
+Date:   Thu Sep 4 20:06:47 2025 -0700
+
+    Commit my README
+
+commit 59d895045a3e98dd1cde042cdaa794af3dd58d34
+Author: DamianBonds <dbonds@calstatela.edu>
+Date:   Thu Sep 4 19:29:15 2025 -0700
+
+    filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
